@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**rashid8532/rashid8532** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Rashid
 
-Here are some ideas to get you started:
+Frontend Developer 🚀  
+Aspiring Full-Stack Web Developer  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🌱 Currently learning Full-Stack Web Development  
+- 💻 Building real-world projects using JavaScript  
+- 🎯 Goal: Get a developer job  
+
+---
+
+## 🛠️ Skills
+- HTML  
+- CSS  
+- JavaScript  
+
+---
+
+## 📂 Projects
+- 🌦️ Weather App  
+- 📝 To-Do List App  
+- 🌐 Portfolio Website  
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/rashid8532  
+
+---
+
+⭐ Keep learning. Keep building.
